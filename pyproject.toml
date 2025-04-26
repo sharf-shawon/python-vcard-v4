@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 version = "0.1.0"
-name = "python-vCard-v4"
+name = "pythonvCard4"
 description = "RFC 6350-compliant vCard 4.0 parser & generator"
 authors = [ { name = "Sharfuddin Shawon", email = "sharf@shawon.me" } ]
 readme = "README.md"
