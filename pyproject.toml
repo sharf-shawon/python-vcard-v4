@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-version = "0.1.0"
+version = "0.2.0"
 name = "pythonvCard4"
 description = "RFC 6350-compliant vCard 4.0 parser & generator"
 authors = [ { name = "Sharfuddin Shawon", email = "sharf@shawon.me" } ]
@@ -13,7 +13,7 @@ requires-python = ">=3.8"
 
 [project.urls]
 Homepage = "https://shawon.me"
-Repository = "https://github.com/sharf-shawon/python-vcard-v4.git"
+Repository = "https://github.com/sharf-shawon/pythonvCard4"
 
 [tool.poetry.dependencies]
 python = ">=3.8"

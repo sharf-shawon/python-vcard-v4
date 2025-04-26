@@ -1,5 +1,5 @@
 import unittest
-from pythonvCard4 import Contact, ValidationError
+from pythonvCard4.vcard import Contact, ValidationError
 from datetime import date
 
 class TestContact(unittest.TestCase):
