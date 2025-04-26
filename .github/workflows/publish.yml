@@ -2,9 +2,8 @@ name: Publish Python package
 
 on:
   push:
-    tags:
-      - 'v*.*.*'  # triggers on version tags like v0.2.0
-
+    branches:
+      - main
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
